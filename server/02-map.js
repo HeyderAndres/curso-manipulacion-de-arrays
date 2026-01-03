@@ -1,3 +1,8 @@
+// es un metodo que crea un nuevo array con la misma cantidad de elementos del array original
+// el nuevo array contiene los elementos modificados segun la funcion que se le pase.
+// tener presente que si los elementos del array no son primitivos (number, string, boolean) entonces
+// map trabaja con referencia y si modifica el obejeto dentro de la funcion, se modifica el objeto original.
+
 const letters = ['a', 'b', 'c', 'd', 'e'];
 const newArray = [];
 

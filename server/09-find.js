@@ -1,3 +1,6 @@
+// es un metodo que devuelve el primer elemento del array que cumpla con la condicion indicada en la funcion.
+// si ningun elemento cumple la condicion entonces devuelve undefined.
+
 const numbers = [1, 2, 3, 4, 5, 6];
 
 console.log(numbers.find(item => item > 2));

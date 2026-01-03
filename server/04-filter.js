@@ -1,3 +1,7 @@
+// es un metodo que crea un nuevo array con los elementos que cumplan la condicion indicada en la funcion.
+// no modifica el array original y siempre devolvera un nuevo array aunque ningun elemento cumpla la condicion.
+// si ningun elemento cumple la condicion entonces el array nuevo sera vacio.
+
 const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
 
 const newArray = [];

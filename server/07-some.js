@@ -1,3 +1,6 @@
+// es un metodo que verifica si al menos un elemento del array cumple con la condicion indicada en la funcion.
+// retorna true o false segun corresponda.
+// no modifica el array original.
 
 const numbers = [1,2,3,4,5,6];
 
